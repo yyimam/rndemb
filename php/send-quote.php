@@ -19,7 +19,7 @@ if (empty($name) || empty($email)) {
 }
 
 // Email settings
-$adminEmail = "admin@yourdomain.com"; // Change this
+$adminEmail = "info@rndemb.com"; // Change this
 $subject = "New Quote Request from " . $name;
 
 // Email body
